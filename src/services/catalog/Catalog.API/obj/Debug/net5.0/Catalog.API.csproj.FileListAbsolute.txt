@@ -1,0 +1,7 @@
+E:\learning\mymicroservicess\src\services\catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.csproj.AssemblyReference.cache
+E:\learning\mymicroservicess\src\services\catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\learning\mymicroservicess\src\services\catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.AssemblyInfoInputs.cache
+E:\learning\mymicroservicess\src\services\catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.AssemblyInfo.cs
+E:\learning\mymicroservicess\src\services\catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.csproj.CoreCompileInputs.cache
+E:\learning\mymicroservicess\src\services\catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cs
+E:\learning\mymicroservicess\src\services\catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cache
