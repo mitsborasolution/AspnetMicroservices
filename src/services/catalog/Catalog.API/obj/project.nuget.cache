@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SaarFI/nNzcMHrjkBUtRunCMq5A85Th4FQEWBD5IllacSj93QgrBI1dGpYm4TwGxRcndeWHCcc21eJsk+dIlEA==",
+  "dgSpecHash": "aL0DV8CT8JsAyyUTqA3YQY0OsapswLQOBG/OQjXkYjDErZbNSHAKqtMLN//dJvZ3s+iTytUl9Ew1e1RidCIalw==",
   "success": true,
   "projectFilePath": "E:\\learning\\mymicroservicess\\src\\services\\catalog\\Catalog.API\\Catalog.API.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,7 @@
     "C:\\Users\\DELL PC\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\DELL PC\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\DELL PC\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\DELL PC\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "C:\\Users\\DELL PC\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
     "C:\\Users\\DELL PC\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\DELL PC\\.nuget\\packages\\mongodb.bson\\2.15.1\\mongodb.bson.2.15.1.nupkg.sha512",
     "C:\\Users\\DELL PC\\.nuget\\packages\\mongodb.driver\\2.15.1\\mongodb.driver.2.15.1.nupkg.sha512",
