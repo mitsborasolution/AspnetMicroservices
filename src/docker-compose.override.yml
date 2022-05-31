@@ -13,6 +13,29 @@ services:
     restart: always
     ports:
       - "6379:6379"
+  discountdb:
+    container_name: discountdb
+    restart: always
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_USER=admin
+      - POSTGRES_PASSWORD=Jesuschrist115
+      - POSTGRES_DB=DiscountDb
+      - PGDATA=/var/lib/postgresql/data/pgdata
+    volumes:
+      - /var/lib/postgresql/data/pgdata:/var/lib/postgresql/data
+      - postgre_data:/var/lib/postgresql/data/pgdata
+  pgadmin:
+    container_name: pgadmin
+    restart: always
+    ports:
+      - "5050:80"
+    environment:
+      - PGADMIN_DEFAULT_EMAIL=aubin.kacyem@gmail.com
+      - PGADMIN_DEFAULT_PASSWORD=jesuschrist115
+    volumes:
+      - pgadmin_data:/root/.pgadmin
   catalog.api:
     container_name: catalog.api
     environment:
