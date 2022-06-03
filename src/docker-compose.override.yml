@@ -22,10 +22,8 @@ services:
       - POSTGRES_USER=admin
       - POSTGRES_PASSWORD=Jesuschrist115
       - POSTGRES_DB=DiscountDb
-      - PGDATA=/var/lib/postgresql/data/pgdata
     volumes:
-      - /var/lib/postgresql/data/pgdata:/var/lib/postgresql/data
-      - postgre_data:/var/lib/postgresql/data/pgdata
+      - postgres_data:/var/lib/postgresql/data/
   pgadmin:
     container_name: pgadmin
     restart: always
@@ -63,3 +61,13 @@ services:
       volumes:
         - /var/run/docker.sock:/var/run/docker.sock
         - portainer_data:/data
+
+  discount.api:
+    container_name: discount.api
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - "DatabaseSettings:ConnectionString=Server=discountdb;Port=5432;Database=DiscountDb;User Id=admin;Password=Jesuschrist115"
+    depends_on:
+      - discountdb
+    ports:
+      - "8002:80" 

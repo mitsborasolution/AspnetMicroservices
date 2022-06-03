@@ -21,8 +21,15 @@ services:
       dockerfile: services/basket/Basket.API/Dockerfile
   portainer:
     image: portainer/portainer-ce
+  discount.api:
+    image: ${DOCKER_REGISTRY-}discountapi
+    build:
+      context: .
+      dockerfile: services/discount/Discount.API/Dockerfile
+
 volumes:
   mongo_data: 
   portainer_data:
-  postgre_data:
+  postgres_data:
   pgadmin_data:
+
