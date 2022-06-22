@@ -59,6 +59,7 @@ services:
   discount.api:
     image: discountapi:dev
     build:
+      target: base
       labels:
         com.microsoft.created-by: "visual-studio"
         com.microsoft.visual-studio.project-name: "Discount.API"
