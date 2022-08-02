@@ -1,0 +1,12 @@
+E:\learning\mymicroservicess\src\services\ordering\Ordering.Domain\bin\Debug\net5.0\Ordering.Domain.deps.json
+E:\learning\mymicroservicess\src\services\ordering\Ordering.Domain\bin\Debug\net5.0\Ordering.Domain.dll
+E:\learning\mymicroservicess\src\services\ordering\Ordering.Domain\bin\Debug\net5.0\Ordering.Domain.pdb
+E:\learning\mymicroservicess\src\services\ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.csproj.AssemblyReference.cache
+E:\learning\mymicroservicess\src\services\ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\learning\mymicroservicess\src\services\ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.AssemblyInfoInputs.cache
+E:\learning\mymicroservicess\src\services\ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.AssemblyInfo.cs
+E:\learning\mymicroservicess\src\services\ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.csproj.CoreCompileInputs.cache
+E:\learning\mymicroservicess\src\services\ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.dll
+E:\learning\mymicroservicess\src\services\ordering\Ordering.Domain\obj\Debug\net5.0\refint\Ordering.Domain.dll
+E:\learning\mymicroservicess\src\services\ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.pdb
+E:\learning\mymicroservicess\src\services\ordering\Ordering.Domain\obj\Debug\net5.0\ref\Ordering.Domain.dll

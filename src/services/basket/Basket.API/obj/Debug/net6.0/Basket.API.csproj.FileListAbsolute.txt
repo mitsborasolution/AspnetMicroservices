@@ -49,3 +49,14 @@ E:\learning\mymicroservicess\src\services\basket\Basket.API\bin\Debug\net6.0\Grp
 E:\learning\mymicroservicess\src\services\basket\Basket.API\bin\Debug\net6.0\Grpc.Net.Client.dll
 E:\learning\mymicroservicess\src\services\basket\Basket.API\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
 E:\learning\mymicroservicess\src\services\basket\Basket.API\bin\Debug\net6.0\Grpc.Net.Common.dll
+E:\learning\mymicroservicess\src\services\basket\Basket.API\bin\Debug\net6.0\AutoMapper.dll
+E:\learning\mymicroservicess\src\services\basket\Basket.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\learning\mymicroservicess\src\services\basket\Basket.API\bin\Debug\net6.0\MassTransit.dll
+E:\learning\mymicroservicess\src\services\basket\Basket.API\bin\Debug\net6.0\MassTransit.Abstractions.dll
+E:\learning\mymicroservicess\src\services\basket\Basket.API\bin\Debug\net6.0\MassTransit.AspNetCoreIntegration.dll
+E:\learning\mymicroservicess\src\services\basket\Basket.API\bin\Debug\net6.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+E:\learning\mymicroservicess\src\services\basket\Basket.API\bin\Debug\net6.0\MassTransit.RabbitMqTransport.dll
+E:\learning\mymicroservicess\src\services\basket\Basket.API\bin\Debug\net6.0\RabbitMQ.Client.dll
+E:\learning\mymicroservicess\src\services\basket\Basket.API\bin\Debug\net6.0\System.Text.Json.dll
+E:\learning\mymicroservicess\src\services\basket\Basket.API\bin\Debug\net6.0\EventBus.Messages.dll
+E:\learning\mymicroservicess\src\services\basket\Basket.API\bin\Debug\net6.0\EventBus.Messages.pdb

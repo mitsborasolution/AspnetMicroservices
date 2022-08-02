@@ -7,6 +7,10 @@ services:
     image: redis:alpine
   discountdb:
     image: postgres
+  orderdb:
+    image: mcr.microsoft.com/mssql/server:2017-latest
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
   pgadmin:
     image: dpage/pgadmin4
   catalog.api:
@@ -27,9 +31,23 @@ services:
       context: .
       dockerfile: services/discount/Discount.API/Dockerfile
 
+  ordering.api:
+    image: ${DOCKER_REGISTRY-}orderingapi
+    build:
+      context: .
+      dockerfile: services/ordering/Ordering.API/Dockerfile
+
+  discount.grpc:
+    image: ${DOCKER_REGISTRY-}discountgrpc
+    build:
+      context: .
+      dockerfile: services/discount/Discount.Grpc/Dockerfile
+
 volumes:
   mongo_data: 
   portainer_data:
   postgres_data:
   pgadmin_data:
+
+
 

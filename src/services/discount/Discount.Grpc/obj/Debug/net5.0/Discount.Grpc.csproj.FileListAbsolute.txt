@@ -1,5 +1,4 @@
 E:\learning\mymicroservicess\src\services\discount\Discount.Grpc\bin\Debug\net5.0\appsettings.Development.json
-E:\learning\mymicroservicess\src\services\discount\Discount.Grpc\bin\Debug\net5.0\appsettings.json
 E:\learning\mymicroservicess\src\services\discount\Discount.Grpc\bin\Debug\net5.0\Discount.Grpc.exe
 E:\learning\mymicroservicess\src\services\discount\Discount.Grpc\bin\Debug\net5.0\Discount.Grpc.deps.json
 E:\learning\mymicroservicess\src\services\discount\Discount.Grpc\bin\Debug\net5.0\Discount.Grpc.runtimeconfig.json
@@ -31,3 +30,8 @@ E:\learning\mymicroservicess\src\services\discount\Discount.Grpc\obj\Debug\net5.
 E:\learning\mymicroservicess\src\services\discount\Discount.Grpc\bin\Debug\net5.0\Dapper.dll
 E:\learning\mymicroservicess\src\services\discount\Discount.Grpc\bin\Debug\net5.0\Npgsql.dll
 E:\learning\mymicroservicess\src\services\discount\Discount.Grpc\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\learning\mymicroservicess\src\services\discount\Discount.Grpc\bin\Debug\net5.0\AutoMapper.dll
+E:\learning\mymicroservicess\src\services\discount\Discount.Grpc\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\learning\mymicroservicess\src\services\discount\Discount.Grpc\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\learning\mymicroservicess\src\services\discount\Discount.Grpc\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+E:\learning\mymicroservicess\src\services\discount\Discount.Grpc\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll

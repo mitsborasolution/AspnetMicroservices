@@ -1,0 +1,17 @@
+E:\learning\mymicroservicess\src\services\ordering\Odering.Infrastructure\bin\Debug\net5.0\Odering.Infrastructure.deps.json
+E:\learning\mymicroservicess\src\services\ordering\Odering.Infrastructure\bin\Debug\net5.0\Odering.Infrastructure.dll
+E:\learning\mymicroservicess\src\services\ordering\Odering.Infrastructure\bin\Debug\net5.0\Odering.Infrastructure.pdb
+E:\learning\mymicroservicess\src\services\ordering\Odering.Infrastructure\bin\Debug\net5.0\Ordering.Application.dll
+E:\learning\mymicroservicess\src\services\ordering\Odering.Infrastructure\bin\Debug\net5.0\Ordering.Domain.dll
+E:\learning\mymicroservicess\src\services\ordering\Odering.Infrastructure\bin\Debug\net5.0\Ordering.Application.pdb
+E:\learning\mymicroservicess\src\services\ordering\Odering.Infrastructure\bin\Debug\net5.0\Ordering.Domain.pdb
+E:\learning\mymicroservicess\src\services\ordering\Odering.Infrastructure\obj\Debug\net5.0\Odering.Infrastructure.csproj.AssemblyReference.cache
+E:\learning\mymicroservicess\src\services\ordering\Odering.Infrastructure\obj\Debug\net5.0\Odering.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\learning\mymicroservicess\src\services\ordering\Odering.Infrastructure\obj\Debug\net5.0\Odering.Infrastructure.AssemblyInfoInputs.cache
+E:\learning\mymicroservicess\src\services\ordering\Odering.Infrastructure\obj\Debug\net5.0\Odering.Infrastructure.AssemblyInfo.cs
+E:\learning\mymicroservicess\src\services\ordering\Odering.Infrastructure\obj\Debug\net5.0\Odering.Infrastructure.csproj.CoreCompileInputs.cache
+E:\learning\mymicroservicess\src\services\ordering\Odering.Infrastructure\obj\Debug\net5.0\Odering.Infrastructure.csproj.CopyComplete
+E:\learning\mymicroservicess\src\services\ordering\Odering.Infrastructure\obj\Debug\net5.0\Odering.Infrastructure.dll
+E:\learning\mymicroservicess\src\services\ordering\Odering.Infrastructure\obj\Debug\net5.0\refint\Odering.Infrastructure.dll
+E:\learning\mymicroservicess\src\services\ordering\Odering.Infrastructure\obj\Debug\net5.0\Odering.Infrastructure.pdb
+E:\learning\mymicroservicess\src\services\ordering\Odering.Infrastructure\obj\Debug\net5.0\ref\Odering.Infrastructure.dll

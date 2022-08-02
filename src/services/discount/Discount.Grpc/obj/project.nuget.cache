@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QGMvdTnfSpJlApTo/l40bAV5pJnnnIsT1UdH9piDFRRl+urMyo+9HutT5vYoeHoiSkSrtv5kT4oxICqdYJDOgg==",
+  "dgSpecHash": "2NL6CTdQdrLgnsb4bpjquTh1AfcmCUW/eAyYkQ9+rdHXlpE0T6evLlM2Y592mU5iJRoyTJLgHzJ50VDornv1OA==",
   "success": true,
   "projectFilePath": "E:\\learning\\mymicroservicess\\src\\services\\discount\\Discount.Grpc\\Discount.Grpc.csproj",
   "expectedPackageFiles": [
@@ -27,6 +27,7 @@
     "C:\\Users\\DELL PC\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
     "C:\\Users\\DELL PC\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\DELL PC\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\DELL PC\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\DELL PC\\.nuget\\packages\\npgsql\\6.0.4\\npgsql.6.0.4.nupkg.sha512",
     "C:\\Users\\DELL PC\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
     "C:\\Users\\DELL PC\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",

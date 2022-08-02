@@ -6,6 +6,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Odering.Infrastructure.Persistence;
+using Ordering.API.Extensions;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace Ordering.API
 {
@@ -13,7 +16,18 @@ namespace Ordering.API
     {
         public static void Main(string[] args)
         {
-            CreateHostBuilder(args).Build().Run();
+            CreateHostBuilder(args)
+                .Build()
+                .MigrateDatabase<OrderContext>((context, services) =>
+                {
+                    var logger = services.GetService<ILogger<OrderContextSeed>>();
+                    OrderContextSeed
+                        .SeedAsync(context, logger)
+                        .Wait();
+                })
+                .Run();
+
+            //CreateHostBuilder(args).Build().Run();
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
